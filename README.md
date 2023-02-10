@@ -1,2 +1,2 @@
-# CursoBasicoCypress
-Curso Cypress basico
+# cypress-basico-v2
+cypress-basico-v2
